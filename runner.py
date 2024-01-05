@@ -5,5 +5,5 @@ from DB_Connect import insertData
 while True:
     insertData()
     
-    # Sleep for one hour (3600 seconds)
-    time.sleep(3600)
+    # Sleep for 10 mins (600 seconds)
+    time.sleep(600)
